@@ -15,21 +15,21 @@ Inspected the CSVs and sketched out an ERD of the tables.
 * The information was used to create a table schema for each of the six CSV files. Data types, primary keys, foreign keys, and other constraints were specified.
 * Each CSV file was imported into the corresponding SQL table. The data was imported in the same order that the tables were created and account for the headers when importing to avoid errors.
 #### Data Analysis
-1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+1. List the following details of each employee: employee number, last name, first name, sex, and salary.</br>
 ![query 1 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_1.png?raw=true)
-2. List first name, last name, and hire date for employees who were hired in 1986.
+2. List first name, last name, and hire date for employees who were hired in 1986.</br>
 ![query 2 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_2.png?raw=true)
-3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.</br>
 ![query 3 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_3.png?raw=true)
-4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+4. List the department of each employee with the following information: employee number, last name, first name, and department name.</br>
 ![query 4 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_4.png?raw=true)
-5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</br>
 ![query 5 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_5.png?raw=true)
-6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+6. List all employees in the Sales department, including their employee number, last name, first name, and department name.</br>
 ![query 6 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_6.png?raw=true)
-7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</br>
 ![query 7 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_7.png?raw=true)
-8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</br>
 ![query 8 img](https://github.com/changrita1114/sql-challenge/blob/main/EmployeeSQL/query_images/query_8.png?raw=true)
 
 ## Disclaimer
